@@ -11,4 +11,6 @@
 
 - go install github.com/cosmtrek/air@latest
 - create .air.toml file
-- copy contents into .air.toml file
+- air -c .air.toml
+- air init
+- air
